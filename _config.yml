@@ -12,6 +12,8 @@ google_analytics:
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 cayman-blog:
   date_format: "%b %-d, %Y"
+github:
+  is_project_page: false
 
 theme: # leave it empty
 
