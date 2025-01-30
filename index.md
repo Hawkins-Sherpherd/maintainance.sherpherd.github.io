@@ -8,10 +8,10 @@
 layout: home
 ---
 
-This site posts maintainance information about SERNET-DN42 and SERNET-IX.
+This site posts maintenance information about SERNET-DN42 and SERNET-IX.
 
 For more information, please visit these pages:
 
-[SERNET-DN42](https://blog.sherpherd.top/dn42)
+[SERNET-DN42](https://blog.sherpherd.net/dn42)
 
-[SERNET-IX](https://blog.sherpherd.top/ix)
+[SERNET-IX](https://blog.sherpherd.net/ix)

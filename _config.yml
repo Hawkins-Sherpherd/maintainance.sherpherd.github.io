@@ -1,9 +1,9 @@
-title: Maintainance Information
+title: maintenance Information
 # description: Cayman Blog Theme is a clean, responsive blogging theme for Jekyll and Gitlab/GitHub Pages.
 show_downloads: false
 
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://maintenance.sherpherd.top" # change this to the base hostname & protocol for your site
+url: "https://maintenance.sherpherd.net" # change this to the base hostname & protocol for your site
 
 
 google_analytics:
